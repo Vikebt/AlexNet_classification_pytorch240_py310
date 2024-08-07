@@ -1,0 +1,2 @@
+# AlexNet_classification_pytorch240_py310
+利用pytorch搭建AlexNet网络模型训练自己的数据集，以猫狗二分类为例。
